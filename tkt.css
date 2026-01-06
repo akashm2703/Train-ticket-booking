@@ -1,0 +1,142 @@
+body{
+background-image: url(https://images2.alphacoders.com/596/thumb-1920-596297.jpg);
+background-repeat: no-repeat;
+background-image: cover;
+background-size: 1600px;
+ height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.log{
+background-color: rgb(255, 255, 255,0.9);
+    border-style: solid;
+    background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 250px;
+}
+
+h1{
+    text-align: center;
+}
+
+button:hover{
+    background-color: rgb(101, 180, 244);
+}
+
+.log1{
+    background-color: rgb(255, 255, 255,0.9);
+    border-style: solid;
+    background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 250px;
+}
+
+.trd{
+    background-color: rgb(255, 255, 255,0.9);
+    border-style: solid;
+    background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 250px
+}
+
+.td1{  
+    background-color: rgb(255, 255, 255,0.9);
+    border-style: solid;
+    background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 250px;
+}
+
+.payment{
+    background-color: hsla(0, 95%, 42%, 0.9);
+    border-style: solid;
+    background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 300px;
+    height: 500px;
+    justify-items: center;
+}
+
+.cards{
+    background-image: url(https://img1.exportersindia.com/product_images/bc-full/2023/4/4493771/atm-card-1680847339-6838210.png);
+    border-style: solid;
+    background-size: 100px;
+    width: 100px; 
+    height: 100px;
+    border-radius: 15px;
+}
+
+.UPI{
+    background-image: url(https://taxconcept.net/wp-content/uploads/2024/11/274966-upigpay-1.jpg);
+    background-repeat: no-repeat;
+    border-style: solid;
+    background-size: 100px;
+    width: 100px; 
+    height: 75px;
+    border-radius: 15px;
+}
+
+.cd{
+   padding-top: 100px;
+   padding-left: 25px;
+    color: aliceblue;
+}
+
+.upih{
+   padding-left: 40px;
+    color: aliceblue;
+}
+
+.pcard{background-color: rgb(255,255,255,0.9);
+    border-style: solid;
+     background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 300px;
+}
+
+.cmplt{
+    background-image: url(https://www.shutterstock.com/shutterstock/videos/3580923965/thumb/1.jpg?ip=x480);
+    background-size: 250px;
+    background-position: center;
+    border-style: solid;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+     border-color: rgb(190, 207, 233);
+    width: 250px;
+    height: 440px;
+}
+
+.su{
+    padding-left: 120px;
+}
+
+.upit{
+    background-image: url(https://pvccardprinting.in/wp-content/uploads/2025/03/bhim-upi-qr-code-print.webp);
+    border-style: solid;
+     background-size: 400px;
+    border-radius: 20px;
+    border-color: rgb(190, 207, 233);
+    width: 400px;
+    height: 400px;
+}
+
+.upibtn{
+    margin-top:280px;
+    margin-left: 160px;
+    border-radius: 2px;
+    background-color: rgb(121, 124, 252);
+}
